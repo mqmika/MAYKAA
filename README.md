@@ -1,19 +1,19 @@
 # Selam, Ben Yusuf! 👋
 
-bir oyun geliştiricisiyim belirli projelerimi burada paylaşacagim umarim hoşunuza gitmez!
+bir oyun geliştiricisiyim belirli projelerimi burada paylaşacagim umarim **hoşunuza gitmez!**
+
+ufak teklonojiler ve sistemler paylaşacagim coğu repom test ve deneysel amaçlidir hepsi tam nihai sürümde çalişmiyor olabilir.
+
+discord dm için : mqmika_
 
 ### 👨‍💻 Hakkımda
 -  Ağırlıklı olarak **C#** ve **Java** dilleri üzerinde çalışıyor ve projeler geliştiriyorum.
 -  **Python** gibi popüler dillere de hakimim ve gerektiğinde kullanıyorum.
 -  Her geçen gün yeni teknolojiler öğrenmeye ve kendimi geliştirmeye devam ediyorum.
-
 ---
-
 ###  Yetenekler & Teknolojiler
 - **Ana Diller:** C#, Java
 - **Diğer Diller:** Python
-- **Araçlar:** Git, GitHub
-
 ---
 
 ### 🌐 Sosyal Medya & İletişim
